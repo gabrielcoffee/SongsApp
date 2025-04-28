@@ -1,4 +1,4 @@
-# MusicLyrics
+# SongsApp
 
 Este é um projeto full-stack para gerenciamento de letras de músicas, desenvolvido com React no frontend e Node.js/Express no backend.
 
